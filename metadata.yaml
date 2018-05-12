@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33773'
     url: http://www.gutenberg.org/2009/agents/33773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36082#White-House-China-of-the-Lincoln-Administration-in-the-Museum-of-History-and-Technology
 gutenberg_issued: '2011-05-10'
 gutenberg_type: Text
 identifiers:
