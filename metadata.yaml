@@ -1,0 +1,30 @@
+_repo: White-House-China-of-the-Lincoln-Administration-in-the-Museum-of-History-and-Technology_36082
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36082-h/images/cover_back.jpg
+creator:
+  author:
+    agent_name: Klapthor, Margaret Brown
+    alias: Brown, Margaret Washington
+    birthdate: 1922
+    deathdate: 1994
+    gutenberg_agent_id: '33773'
+    url: http://www.gutenberg.org/2009/agents/33773
+description: ''
+gutenberg_issued: '2011-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Porcelain -- Washington (D.C.)'
+- !lcsh 'Washington (D.C.) -- Social life and customs'
+- !lcsh 'Dinners and dining -- Washington (D.C.)'
+title: White House China of the Lincoln Administration in the Museum of History and
+  Technology
+url: http://www.gutenberg.org/ebooks/36082
